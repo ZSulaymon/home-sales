@@ -100,7 +100,9 @@ func SearchByArea(houses []house, districts string ) []house {
 	return result
 }
 
+func main() {
 
+}
 
 
 
