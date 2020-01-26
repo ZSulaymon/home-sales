@@ -3,7 +3,7 @@ package main
 import (
 	"sort"
 )
-git
+
 type house struct {
 	id            int64
 	name          string
