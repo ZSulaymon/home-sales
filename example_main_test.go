@@ -100,5 +100,3 @@ func ExampleSearchSearchByArea_NoResults() {
 	fmt.Println(searchDis)
 	// Output: []
 }
-
-//SearchByAreas(houses, []string{"Шохмансур", "Сино"})
